@@ -1,0 +1,26 @@
+{
+	"name": "@starpower/tsconfig",
+	"version": "0.1.0",
+	"description": "Shared TypeScript config for my projects",
+	"license": "MIT",
+	"repository": "star-powered-space-base/starpower-tsconfig",
+	"author": {
+		"name": "Cody Averett",
+		"email": "codyaverett@gmail.com",
+		"url": "https://codyaverett.com"
+	},
+	"main": "tsconfig.json",
+	"engines": {
+		"node": ">=10"
+	},
+	"files": [
+		"tsconfig.json"
+	],
+	"keywords": [
+		"tsconfig",
+		"typescript",
+		"ts",
+		"config",
+		"configuration"
+	]
+}
